@@ -19,7 +19,7 @@ const Home = () => {
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[40px] text-[42px] text-center text-white ss:leading-[100.8px] leading-[75px] w-full">
-          Full Stack Developer
+           Software Developer
         </h1>
         <p className={`${styles.paragraph} text-center`}>
 
