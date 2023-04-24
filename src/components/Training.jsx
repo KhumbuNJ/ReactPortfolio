@@ -7,8 +7,11 @@ const Training = () => (
       <h2 className={styles.heading2}>Training:</h2>
       <h2 className={styles.heading2}>WeThinkCode_</h2>
       <p className={`${styles.paragraph} text-white`}>
-        An intense coding bootcamp focused on learning programming by doing indivual, group projects using git to manage the software and existing codebases
+        An intense coding bootcamp focused on learning programming by doing indivual, group projects using git to manage the software and existing codebases. The mission is to provide an
+      effective platform for training youth in digital skills.
+        Learnership under Systems Development
       </p>
+      
     </div>
   </section>
  </section>
