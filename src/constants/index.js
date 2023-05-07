@@ -47,4 +47,5 @@ export const feedback = [
     name: "Mobile development",
   
   },
+
 ];

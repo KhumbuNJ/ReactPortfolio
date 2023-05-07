@@ -7,7 +7,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
   return (
    <nav className="w-full flex py-6 justify-between items-center navbar over:bg-gray-100 dark:text-gray-400 dark:hover:bg-black dark:hover:text-white ">
-      <h2 className={`text-green-700 text-[35px] `}>My Portfolio</h2>
+      {/* <h2 className={`text-green-700 text-[35px] `}>My Portfolio</h2> */}
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
         {navLinks.map((nav, index) => (
           <li
