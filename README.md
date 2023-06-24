@@ -6,4 +6,4 @@ To run use the following command:
     npm run dev
 
 
-Deployed version: https://friendly-fudge-473cc6.netlify.app/
+Deployed version: https://njilokhumbulani.netlify.app
